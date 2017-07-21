@@ -1,0 +1,12 @@
+*.t7
+*~
+*.pyc
+exp/
+h3m/
+*.h5
+*.txt
+*.log
+*.caffemodel
+data/h3m/tempo/
+rpsm_models/
+rpsm_models.zip
