@@ -59,7 +59,7 @@ the snapshots will be stored in exp/h3m/rpsm_1024_rho3_t5
     ```
    
 ## Models
-Download trained model from [Baidu Yun](https://pan.baidu.com/s/1migHkr2), and cd scripts/rpsm/  && bash test_rpsm_rho3.sh.
+Download trained model from [Baidu Yun](https://pan.baidu.com/s/1GUguVwGcRwKkFIXM5sQ8Cg), and cd scripts/rpsm/  && bash test_rpsm_rho3.sh.
 
 Our predicted result on Human 3.6M dataset could be found at [Baidu Yun](https://pan.baidu.com/s/1i4TqeFV)
 
